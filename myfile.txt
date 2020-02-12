@@ -1,1 +1,7 @@
 this is my file 
+
+modify this
+
+minor change
+
+another new line, will I see it
